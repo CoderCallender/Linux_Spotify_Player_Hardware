@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "149e8d94-e7c7-4bd7-93a7-37c7815b68ab")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 43.942 106.172)
+		(size 40.132 43.434)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "80e67f31-fd27-422d-ad2d-574ccbb41a56")
+		(property "Sheetname" "LCD Sheet"
+			(at 43.942 105.4604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LCD.kicad_sch"
+			(at 43.942 150.1906 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 43.942 106.172 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Allwinner_V3S_Spotify"
+				(path "/149e8d94-e7c7-4bd7-93a7-37c7815b68ab"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.128 35.56)
+		(size 58.42 67.818)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ac885fd8-90a1-4f6b-b44d-59b67a3fe178")
+		(property "Sheetname" "Processor"
+			(at 135.128 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Processor.kicad_sch"
+			(at 135.128 103.9626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Allwinner_V3S_Spotify"
+				(path "/149e8d94-e7c7-4bd7-93a7-37c7815b68ab"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

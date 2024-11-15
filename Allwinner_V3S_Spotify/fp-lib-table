@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Allwinner_Spotify")(type "KiCad")(uri "${KIPRJMOD}/Footprint Libs/Allwinner_Spotify.pretty")(options "")(descr ""))
+)

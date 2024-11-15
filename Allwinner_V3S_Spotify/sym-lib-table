@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Allwinner_V3S_Spotify")(type "KiCad")(uri "${KIPRJMOD}/Schematic Libs/Allwinner_V3S_Spotify.kicad_sym")(options "")(descr ""))
+)
