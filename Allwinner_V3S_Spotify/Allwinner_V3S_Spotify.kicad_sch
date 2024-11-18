@@ -6,6 +6,44 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 221.996 98.806)
+		(size 43.942 44.45)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6c99e6f1-b243-4afc-866e-b218cf331404")
+		(property "Sheetname" "Power"
+			(at 221.996 98.0944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 221.996 143.8406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Allwinner_V3S_Spotify"
+				(path "/149e8d94-e7c7-4bd7-93a7-37c7815b68ab"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 43.942 106.172)
 		(size 40.132 43.434)
 		(fields_autoplaced yes)
@@ -48,6 +86,44 @@
 			(project "Allwinner_V3S_Spotify"
 				(path "/149e8d94-e7c7-4bd7-93a7-37c7815b68ab"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 32.258 25.908)
+		(size 65.024 47.244)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "818a24fb-bff6-4ba4-be6d-9a3867c26ff3")
+		(property "Sheetname" "Connectivity"
+			(at 32.258 25.1964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectivity.kicad_sch"
+			(at 32.258 73.7366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Allwinner_V3S_Spotify"
+				(path "/149e8d94-e7c7-4bd7-93a7-37c7815b68ab"
+					(page "5")
 				)
 			)
 		)

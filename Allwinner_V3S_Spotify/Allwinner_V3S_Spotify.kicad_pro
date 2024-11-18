@@ -394,6 +394,14 @@
     [
       "80e67f31-fd27-422d-ad2d-574ccbb41a56",
       "LCD Sheet"
+    ],
+    [
+      "6c99e6f1-b243-4afc-866e-b218cf331404",
+      "Power"
+    ],
+    [
+      "818a24fb-bff6-4ba4-be6d-9a3867c26ff3",
+      "Connectivity"
     ]
   ],
   "text_variables": {}

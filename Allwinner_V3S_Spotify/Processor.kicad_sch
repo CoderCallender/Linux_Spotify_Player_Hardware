@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "e9042f06-f8a2-4a54-8a91-3fc40be12509")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "Allwinner_V3S_Spotify:ALLWINNER_V3S"
 			(exclude_from_sim no)
@@ -2385,7 +2385,7 @@
 	)
 	(symbol
 		(lib_id "Allwinner_V3S_Spotify:ALLWINNER_V3S")
-		(at 144.78 90.17 0)
+		(at 205.74 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2394,7 +2394,7 @@
 		(fields_autoplaced yes)
 		(uuid "3be42674-3b10-4b49-9899-0d1cc56c6a79")
 		(property "Reference" "U1"
-			(at 199.39 47.0214 0)
+			(at 260.35 72.4214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2402,7 +2402,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 199.39 48.9265 0)
+			(at 260.35 74.3265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2410,7 +2410,7 @@
 			)
 		)
 		(property "Footprint" "Allwinner_Spotify:LQFP-128_14x14mm_P0.4mm_EP"
-			(at 144.78 90.17 0)
+			(at 205.74 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2419,7 +2419,7 @@
 			)
 		)
 		(property "Datasheet" "https://linux-sunxi.org/images/2/23/Allwinner_V3s_Datasheet_V1.0.pdf"
-			(at 144.78 90.17 0)
+			(at 205.74 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2428,7 +2428,7 @@
 			)
 		)
 		(property "Description" "ARM Cortex-A7 CPU 1.2Ghz 512Mbit DDR2"
-			(at 144.78 90.17 0)
+			(at 205.74 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2437,7 +2437,7 @@
 			)
 		)
 		(property "OC_LCSC" "C2687449"
-			(at 144.78 90.17 0)
+			(at 205.74 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
